@@ -1,0 +1,10 @@
+C:\Mphasis dot net\Day 14\Assignment 19\RealAlgebra\RealAlgebra\bin\Debug\RealAlgebra.exe.config
+C:\Mphasis dot net\Day 14\Assignment 19\RealAlgebra\RealAlgebra\bin\Debug\RealAlgebra.exe
+C:\Mphasis dot net\Day 14\Assignment 19\RealAlgebra\RealAlgebra\bin\Debug\RealAlgebra.pdb
+C:\Mphasis dot net\Day 14\Assignment 19\RealAlgebra\RealAlgebra\bin\Debug\ShapeAreaLib.dll
+C:\Mphasis dot net\Day 14\Assignment 19\RealAlgebra\RealAlgebra\bin\Debug\ShapeAreaLib.pdb
+C:\Mphasis dot net\Day 14\Assignment 19\RealAlgebra\RealAlgebra\obj\Debug\RealAlgebra.csproj.AssemblyReference.cache
+C:\Mphasis dot net\Day 14\Assignment 19\RealAlgebra\RealAlgebra\obj\Debug\RealAlgebra.csproj.CoreCompileInputs.cache
+C:\Mphasis dot net\Day 14\Assignment 19\RealAlgebra\RealAlgebra\obj\Debug\RealAlgebra.csproj.CopyComplete
+C:\Mphasis dot net\Day 14\Assignment 19\RealAlgebra\RealAlgebra\obj\Debug\RealAlgebra.exe
+C:\Mphasis dot net\Day 14\Assignment 19\RealAlgebra\RealAlgebra\obj\Debug\RealAlgebra.pdb
